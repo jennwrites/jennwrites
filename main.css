@@ -59,6 +59,10 @@ p {
   font-style: uppercase;        
 }
 
+h1 {
+    text-align: center;
+}
+
 .main-content {
     font-family: 'Abril Fatface', cursive;
     font-size: 20px;
