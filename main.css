@@ -41,31 +41,13 @@
   color: #45bfa4;
 }
 
-#footer {
-  clear: both;
-  position: relative;
-  z-index: 10;
-  height: 3em;
-  margin-top: -3em;
-  font-family: 'cooper_hewittbook', sans-serif;
-  color:#ff9a5c;
-  font-size: 10px;
-}
 
 @font-face {
-    font-family: 'cooper_hewittbook';
-    src: url('fonts/cooperhewitt-book-webfont.eot');
-    src: url('fonts/cooperhewitt-book-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/cooperhewitt-book-webfont.woff2') format('woff2'),
-         url('fonts/cooperhewitt-book-webfont.woff') format('woff'),
-         url('fonts/cooperhewitt-book-webfont.ttf') format('truetype'),
-         url('fonts/cooperhewitt-book-webfont.svg#cooper_hewittbook') format('svg');
-    font-weight: normal;
-    font-style: uppercase;
+    font-family: 'Abril Fatface', cursive;    
 }
 
 html {
-  font-family: 'cooper_hewittbook', sans-serif;
+  font-family: 'Abril Fatface', cursive;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -93,20 +75,20 @@ a:hover {
 p {    
   margin: 25px;
   line-height: 140%;
-  font-family: 'cooper_hewittbook', sans-serif;
+  font-family: 'Abril Fatface', cursive;
   font-size: 20px;
   text-indent: 20px
   font-style: uppercase;        
 }
 
 .main-content {
-    font-family: 'cooper_hewittbook', sans-serif;
+    font-family: 'Abril Fatface', cursive;
     font-size: 20px;
     color: #45bfa4;
 }
 
 .writing-content {
-    font-family: 'cooper_hewittbook', sans-serif;
+    font-family: 'Abril Fatface', cursive;
     font-size: 10px;
     color: #45bfa4;
 }
