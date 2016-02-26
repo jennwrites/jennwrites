@@ -54,6 +54,9 @@ p {
 }
 
 h1 {
+	font-family: 'Abril Fatface', cursive; 
+	font-weight: 400;
+	font-size: 1000%;
     text-align: center;
 }
 
