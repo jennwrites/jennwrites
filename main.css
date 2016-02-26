@@ -14,33 +14,11 @@
   margin: 0px;
   padding: 0px;	
   background-color: #000000;
-  background-position: relative;
-  background-repeat: no-repeat;
-  webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover; 
   line-height: 1.5;
   font-family: 'Abril Fatface', cursive;
+  font-size: 1000%;
   color: #FF0000;
 }
-
-#writing {
-  margin: 0px;
-  padding: 0px;	
-  background-image: url(../images/writing.jpg);
-  background-attachment: fixed;
-  background-position: relative;
-  background-repeat: no-repeat;
-  webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover; 
-  line-height: 1.5;
-  font-family: 'Abril Fatface', cursive;
-  color: #45bfa4;
-}
-
 
 @font-face {
     font-family: 'Abril Fatface', cursive;    
@@ -53,22 +31,22 @@ html {
 }
 
 a:link {
-  color: #ff9a5c; 
+  color: #FF0000; 
   text-decoration: none; 
 }
 
 a:active {
-  color: #ff9a5c; 
+  color: #FF0000; 
   text-decoration: none; 
 }
 
 a:visited {
- color: #ff9a5c; 
+ color: #FF0000; 
  text-decoration: none; 
 }
 
 a:hover {
-  color: #ff9a5c; 
+  color: #FF0000; 
   text-decoration: none; 
 }
 
@@ -87,37 +65,6 @@ p {
     color: #45bfa4;
 }
 
-.writing-content {
-    font-family: 'Abril Fatface', cursive;
-    font-size: 10px;
-    color: #45bfa4;
-}
 
-.flex-container {
-  padding: 0;
-  margin: 0;
-  list-style: none;
-  
-  display: -webkit-box;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  display: flex;
-  
-  -webkit-flex-flow: row wrap;
-  justify-content: space-around;
-}
 
-.flex-item {
-  background: none;
-  padding: 5px;
-  width: 200px;
-  height: 150px;
-  margin-top: 10px;
-  
-  line-height: 20px;
-  color: #45bfa4;
-  font-weight: none;
-  font-size: 20px;
-  text-align: left;
-}
+
