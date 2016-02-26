@@ -14,7 +14,6 @@
   margin: 0px;
   padding: 0px;	
   background-color: #000000;
-  line-height: 1.5;
   font-family: 'Abril Fatface', cursive;
   font-size: 1000%;
   color: #FF0000;
@@ -50,11 +49,8 @@ a:hover {
 
 p {    
   margin: 25px;
-  line-height: 140%;
   font-family: 'Abril Fatface', cursive;
-  font-size: 20px;
-  text-indent: 20px
-  font-style: uppercase;        
+  font-size: 1000%;
 }
 
 h1 {
@@ -63,8 +59,8 @@ h1 {
 
 .main-content {
     font-family: 'Abril Fatface', cursive;
-    font-size: 20px;
-    color: #45bfa4;
+    font-size: 1000%;
+    color: #FF0000;
 }
 
 
