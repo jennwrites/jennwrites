@@ -14,7 +14,6 @@
   margin: 0px;
   padding: 0px;	
   background-color: #000000;
-  background-attachment: fixed;
   background-position: relative;
   background-repeat: no-repeat;
   webkit-background-size: cover;
@@ -22,7 +21,7 @@
     -o-background-size: cover;
     background-size: cover; 
   line-height: 1.5;
-  font-family: 'cooper_hewittbook', sans-serif;
+  font-family: 'Abril Fatface', cursive;
   color: #FF0000;
 }
 
@@ -38,7 +37,7 @@
     -o-background-size: cover;
     background-size: cover; 
   line-height: 1.5;
-  font-family: 'cooper_hewittbook', sans-serif;
+  font-family: 'Abril Fatface', cursive;
   color: #45bfa4;
 }
 
