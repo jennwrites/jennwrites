@@ -20,6 +20,14 @@
   color: #FFFFFF;
 }
 
+#newsletters {
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Raleway', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+}
+
 @font-face {
     font-family: 'Abril Fatface';    
 }
@@ -50,7 +58,7 @@ a:hover {
 
 p {    
   margin: 25px;
-  font-family: 'Abril Fatface', cursive;
+  font-family: 'Open Sans', sans-serif;
   font-size: 20px%;
 }
 
@@ -61,6 +69,22 @@ h1 {
 	font-weight: 400;
 	font-size: 500%;
 	text-align: center
+}
+
+header {
+	margin-top: 0px
+	margin-bottom: 0px
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+}
+
+section {
+
+}
+
+footer {
+	font-family: 'Raleway', sans-serif;
+	text-align: bottom;
 }
 
 .main-content {
