@@ -20,29 +20,6 @@
   color: #FFFFFF;
 }
 
-#newsletters {
-	margin: 0px;
-	padding: 20px;
-}
-
-#main-content h1 {
-	margin-top: 0px;
-    margin-bottom: 0px;
-	font-family: 'Abril Fatface', cursive; 
-	font-weight: 400;
-	font-size: 500%;
-	text-align: center
-}
-
-#newsletters h1 {
-	margin-top: 0px
-	margin-bottom: 0px
-	font-family: 'Pacifico', normal;
-	font-size: 200%;
-	text-align: center;	
-}
-
-
 @font-face {
     font-family: 'Abril Fatface';    
 }
@@ -73,24 +50,17 @@ a:hover {
 
 p {    
   margin: 25px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Abril Fatface', cursive;
   font-size: 20px%;
 }
 
-header {
-	margin-top: 0px
-	margin-bottom: 0px
-	font-family: 'Pacifico', normal;
-	text-align: center;
-}
-
-section {
-
-}
-
-footer {
-	font-family: 'Raleway', sans-serif;
-	text-align: bottom;
+h1 {
+	margin-top: 0px;
+    margin-bottom: 0px;
+	font-family: 'Abril Fatface', cursive; 
+	font-weight: 400;
+	font-size: 500%;
+	text-align: center
 }
 
 .main-content {
@@ -101,7 +71,4 @@ footer {
     color: #FFFFFF;
 
 }
-
-
-
 
