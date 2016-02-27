@@ -70,29 +70,40 @@ h2 {
 }
 
 .flex-container {
-  padding: 0;
-  margin: 0;
-  list-style: none;
+  	padding: 0;
+  	margin: 0;
+  	list-style: none;
   
-  display: -webkit-box;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  display: flex;
+  	display: -webkit-box;
+  	display: -moz-box;
+  	display: -ms-flexbox;
+  	display: -webkit-flex;
+  	display: flex;
   
   -webkit-flex-flow: row wrap;
   justify-content: space-around;
 }
 
 .flex-item {
-  background: none;
-  padding: 0px;
-  width: 350px;
-  height: 150px;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  line-height: 24px;
-  text-align: left;
+  	background: none;
+  	padding: 0px;
+  	width: 350px;
+  	height: 150px;
+  	margin-top: 0px;
+  	margin-bottom: 0px;
+  	line-height: 24px;
+  	text-align: left;
+}
+
+#clients.flex-item {
+	background: none;
+  	padding: 0px;
+  	width: 0px;
+  	height: 0px;
+  	margin-top: 0px;
+  	margin-bottom: 0px;
+  	line-height: 24px;
+  	text-align: left;
 }
 
 #clients {
