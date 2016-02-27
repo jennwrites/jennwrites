@@ -15,12 +15,7 @@
   padding: 0px;	
   background-color: #000000;
   background-attachment: fixed;
-  background-position: relative;
   background-repeat: no-repeat;
-  webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover; 
   font-family: 'Abril Fatface', cursive;
   color: #FFFFFF;
 }
@@ -67,9 +62,12 @@ h1 {
 }
 
 .main-content {
+    margin-top: 0px;
+    margin-bottom: 0px;
     font-family: 'Abril Fatface', cursive;
     font-size: 500%;
     color: #FFFFFF;
+
 }
 
 
