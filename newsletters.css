@@ -17,27 +17,33 @@
 }
 
 html {
-  font-family: 'Pacifico', normal;
-  font-family: 'Raleway', sans-serif;
-  font-family: 'Open Sans', sans-serif;
+  	font-family: 'Pacifico', normal;
+  	font-family: 'Raleway', sans-serif;
+  	font-family: 'Open Sans', sans-serif;
 }
 
 a {
-  color: #CCCCCC; 
-  text-decoration: none; 
+  	color: #CCCCCC; 
+  	text-decoration: none; 
 }
 
 a:active {
-  color: #CCCCCC; 
-  text-decoration: none; 
+  	color: #CCCCCC; 
+  	text-decoration: none; 
 }
 
 a:visited {
- color: #CCCCCC; 
- text-decoration: none; 
+ 	color: #CCCCCC; 
+ 	text-decoration: none; 
 }
 
 a:hover {
-  color: #FF6600; 
-  text-decoration: none; 
+  	color: #FF6600; 
+  	text-decoration: none; 
+}
+
+p {
+	margin: 25px;
+  	font-family: 'Open Sans', sans-serif;
+  	font-size: 20px%
 }
