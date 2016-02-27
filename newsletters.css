@@ -98,7 +98,8 @@ h2 {
 #clients.flex-item {
 	background: none;
   	padding: 0px;
-  	width: 0px;
+  	padding-bottom: 100;
+  	width: 100px;
   	height: 0px;
   	margin-top: 0px;
   	margin-bottom: 0px;
