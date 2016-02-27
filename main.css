@@ -15,7 +15,7 @@
   padding: 0px;	
   background-color: #000000;
   font-family: 'Abril Fatface', cursive;
-  color: #FF0000;
+  color: #FFFFFF;
 }
 
 @font-face {
@@ -27,22 +27,22 @@ html {
 }
 
 a:link {
-  color: #FF0000; 
+  color: #FFFFFF; 
   text-decoration: none; 
 }
 
 a:active {
-  color: #FF0000; 
+  color: #FFFFFF; 
   text-decoration: none; 
 }
 
 a:visited {
- color: #FF0000; 
+ color: #FFFFFF; 
  text-decoration: none; 
 }
 
 a:hover {
-  color: #FF0000; 
+  color: #C12283; 
   text-decoration: none; 
 }
 
@@ -62,7 +62,7 @@ h1 {
 .main-content {
     font-family: 'Abril Fatface', cursive;
     font-size: 500%;
-    color: #FF0000;
+    color: #FFFFFF;
 }
 
 
