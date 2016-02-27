@@ -43,7 +43,8 @@ a:hover {
 }
 
 p {
-	margin: 25px;
+	margin: 24px;
+	padding: 10px;
   	font-family: 'Open Sans', sans-serif;
   	font-size: 20px%
 }
@@ -59,9 +60,9 @@ h1 {
 }
 
 h2 {
-	margin-top: 20px;
-    margin-bottom: 10px;
-    padding: 20px;
+	margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
 	font-family: 'Raleway', sans-serif; 
 	font-weight: 400;
 	font-size: 35px;
@@ -99,5 +100,5 @@ h2 {
 	padding-bottom: 0px;
     padding-left: 0px;
     padding-right: 0px;
-    padding-top: 24px;
+    padding-top: 0px;
 }
