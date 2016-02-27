@@ -14,9 +14,13 @@
   margin: 0px;
   padding: 0px;	
   background-color: #000000;
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
   background-attachment: fixed;
+  background-position: relative;
+  background-repeat: no-repeat;
+  webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
   font-family: 'Abril Fatface', cursive;
   color: #FFFFFF;
 }
@@ -59,17 +63,7 @@ h1 {
 	font-family: 'Abril Fatface', cursive; 
 	font-weight: 400;
 	font-size: 500%;
-<<<<<<< Updated upstream
-    	text-align: center
-    	vertical-align: text-top;
-=======
-<<<<<<< HEAD
-    text-align: center
-=======
-    	text-align: center
-    	vertical-align: text-top;
->>>>>>> origin/gh-pages
->>>>>>> Stashed changes
+	text-align: center
 }
 
 .main-content {
