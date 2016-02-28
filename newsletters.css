@@ -43,10 +43,7 @@ a:hover {
 }
 
 p {
-	margin: 24px;
-	padding: 10px;
   	font-family: 'Open Sans', sans-serif;
-  	font-size: 20px%
 }
 
 h1 {
@@ -127,4 +124,10 @@ h2 {
 #right_col {
    float:right;
    width:300px;
+}
+
+#p1 {
+	font-family:'Open Sans', sans-serif;
+	font-size: 24px;
+	font-color: #000000;
 }
