@@ -93,6 +93,76 @@ h2 {
   	text-align: left;
 }
 
+.Bulb {
+  background-color: rgb(62, 62, 62);
+  position: absolute;
+  left: 195px;
+  top: 704px;
+  width: 18px;
+  height: 32px;
+  z-index: 38;
+}
+
+.Crown {
+  background-color: rgb(62, 62, 62);
+  position: absolute;
+  left: 508px;
+  top: 768px;
+  width: 32px;
+  height: 32px;
+  z-index: 28;
+}
+
+.Diamond {
+  background-color: rgb(62, 62, 62);
+  position: absolute;
+  left: 444px;
+  top: 704px;
+  width: 32px;
+  height: 32px;
+  z-index: 56;
+}
+
+.Flag {
+  background-color: rgb(62, 62, 62);
+  position: absolute;
+  left: 320px;
+  top: 448px;
+  width: 21px;
+  height: 32px;
+  z-index: 102;
+}
+
+.Heart {
+  background-color: rgb(62, 62, 62);
+  position: absolute;
+  left: 316px;
+  top: 704px;
+  width: 32px;
+  height: 32px;
+  z-index: 92;
+}
+
+.Laptop {
+  background-color: rgb(62, 62, 62);
+  position: absolute;
+  left: 124px;
+  top: 1092px;
+  width: 32px;
+  height: 24px;
+  z-index: 101;
+}
+
+.Pencil {
+  background-color: rgb(62, 62, 62);
+  position: absolute;
+  left: 188px;
+  top: 576px;
+  width: 32px;
+  height: 32px;
+  z-index: 23;
+}
+
 #clients.flex-item {
 	background: none;
   	padding: 0px;
