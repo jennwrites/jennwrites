@@ -175,6 +175,7 @@ h3 {
 }
 
 #about-me.wrap {
+   display: block;
    width:1000px;
    margin:0 auto;
  }
