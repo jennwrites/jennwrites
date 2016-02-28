@@ -78,6 +78,14 @@ h3 {
 	color: #FF6600;
 }
 
+span {
+    display: inline;
+  }
+  span:before {
+    content: "\a ";
+    white-space: pre;
+}
+
 .flex-container {
   	padding: 0;
   	margin: 0;
