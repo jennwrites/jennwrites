@@ -215,10 +215,12 @@ span {
 #left_col {
    float:left;
    width:450px;
+   height:500px;
 }
 #right_col {
    float:right;
    width:450px;
+   height:500px;
 }
 
 #p1 {
