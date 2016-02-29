@@ -123,6 +123,11 @@ span {
   	text-align: left;
 }
 
+#a.email {
+    color: #FF6600; 
+    text-decoration: none; 
+}
+
 #clients.flex-item {
 	 background: none;
   	padding: 0px;
