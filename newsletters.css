@@ -93,14 +93,6 @@ h4 {
   color: #FF6600;
 }
 
-span {
-    display: inline;
-  }
-  span:before {
-    content: "\a ";
-    white-space: pre;
-}
-
 .flex-container {
   	padding: 0;
   	margin: 0;
@@ -152,25 +144,9 @@ span {
     padding-top: 0px;
 }
 
-#intro.flex-container {
-    margin: 0px;
-    list-style: none;
-  
-    display: -webkit-box;
-    display: -moz-box;
-    display: -ms-flexbox;
-    display: -webkit-flex;
-    display: flex;
-  
-  -webkit-flex-flow: row wrap;
-  justify-content: space-around;
-}
-
 #intro.flex-item {
     align-content: center;
     background: none;
-    width: 128px;
-    height: 128px;
     margin-top: 0px;
     margin-bottom: 0px;
     line-height: 24px;
