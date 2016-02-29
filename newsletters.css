@@ -153,6 +153,12 @@ hr {
     margin-right: auto;
 }
 
+#about-me:after{
+  content: "";
+  display: table;
+  clear: both;
+}
+
 #email a {
     color: #FF6600; 
     text-decoration: none; 
@@ -206,7 +212,6 @@ hr {
 #right_col {
    float:right;
    width:450px;
-   height:500px;
 }
 
 #p1 {
