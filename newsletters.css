@@ -112,84 +112,8 @@ span {
   	text-align: left;
 }
 
-.Bulb {
-  background-color: rgb(62, 62, 62);
-  position: absolute;
-  left: 195px;
-  top: 704px;
-  width: 18px;
-  height: 32px;
-  z-index: 38;
-}
-
-.Crown {
-  background-color: rgb(62, 62, 62);
-  position: absolute;
-  left: 508px;
-  top: 768px;
-  width: 32px;
-  height: 32px;
-  z-index: 28;
-}
-
-.Diamond {
-  background-color: rgb(62, 62, 62);
-  position: absolute;
-  left: 444px;
-  top: 704px;
-  width: 32px;
-  height: 32px;
-  z-index: 56;
-}
-
-.Flag {
-  background-color: rgb(62, 62, 62);
-  position: absolute;
-  left: 320px;
-  top: 448px;
-  width: 21px;
-  height: 32px;
-  z-index: 102;
-}
-
-.Heart {
-  background-color: rgb(62, 62, 62);
-  position: absolute;
-  left: 316px;
-  top: 704px;
-  width: 32px;
-  height: 32px;
-  z-index: 92;
-}
-
-.Laptop {
-  background-color: rgb(62, 62, 62);
-  position: absolute;
-  left: 124px;
-  top: 1092px;
-  width: 32px;
-  height: 24px;
-  z-index: 101;
-}
-
-.Pencil {
-  background-color: rgb(62, 62, 62);
-  position: absolute;
-  left: 188px;
-  top: 576px;
-  width: 32px;
-  height: 32px;
-  z-index: 23;
-}
-
-#about-me.wrap {
-   display: block;
-   width:1000px;
-   margin:0 auto;
- }
-
 #clients.flex-item {
-	background: none;
+	 background: none;
   	padding: 0px;
   	padding-bottom: 100;
   	width: 100px;
@@ -201,11 +125,22 @@ span {
 }
 
 #clients {
-	margin: 0px;
-	padding-bottom: 0px;
+	 margin: 0px;
+	 padding-bottom: 0px;
     padding-left: 0px;
     padding-right: 0px;
     padding-top: 0px;
+}
+
+#intro.flex-item {
+    background: none;
+    padding: 0px;
+    width: 128px;
+    height: 128px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    line-height: 24px;
+    text-align: left;
 }
 
 #wrap {
