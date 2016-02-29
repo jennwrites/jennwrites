@@ -140,7 +140,13 @@ h6 {
   	text-align: left;
 }
 
-#email.a {
+.intro img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#email a {
     color: #FF6600; 
     text-decoration: none; 
 }
@@ -165,7 +171,7 @@ h6 {
     padding-top: 0px;
 }
 
-#intro.flex-item {
+#intro .flex-item {
     align-content: center;
     background: none;
     margin-top: 0px;
@@ -178,11 +184,18 @@ h6 {
    width:1000px;
    margin:0 auto;
 }
+
+#wrap:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
 #left_col {
    float:left;
    width:450px;
-   height:500px;
 }
+
 #right_col {
    float:right;
    width:450px;
