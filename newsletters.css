@@ -187,7 +187,7 @@ hr {
     text-decoration: none; 
 }
 
-#clients .flex-item {
+#clients.flex-item {
 	 background: none;
   	padding: 0px;
   	padding-bottom: 100;
@@ -205,14 +205,6 @@ hr {
     padding-left: 0px;
     padding-right: 0px;
     padding-top: 0px;
-}
-
-#clients:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
 }
 
 #intro .flex-item {
