@@ -153,6 +153,11 @@ hr {
     margin-right: auto;
 }
 
+#about-me {
+   width:1000px;
+   margin:0 auto;
+}
+
 #about-me:after{
   content: "";
   display: table;
