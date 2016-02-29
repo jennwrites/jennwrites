@@ -172,6 +172,16 @@ hr {
   clear: both;
 }
 
+#about-me .left_col {
+   float:left;
+   width: 400px;
+}
+
+#about-me .right_col {
+   float:right;
+   width: 600px;
+}
+
 #email a {
     color: #FF6600; 
     text-decoration: none; 
@@ -240,7 +250,7 @@ hr {
 }
 
 #p3 {
-	margin: 20px;
+	margin: 10px;
 	font-family: 'Raleway', sans-serif;
 	font-size: 20px;
 	font-color: #CCCCCC;
