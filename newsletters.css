@@ -93,6 +93,17 @@ h4 {
   color: #FF6600;
 }
 
+h5 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 0px;
+  font-family: 'Raleway', sans-serif; 
+  font-weight: 400;
+  font-size: 20px;
+  text-align: right;
+  color: #FF6600;
+}
+
 .flex-container {
   	padding: 0;
   	margin: 0;
