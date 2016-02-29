@@ -165,24 +165,8 @@ span {
 #intro.flex-item {
     align-content: center;
     background: none;
-    padding-left: 20px;
-    padding-right: 20px;
     width: 128px;
     height: 128px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    line-height: 24px;
-    text-align: center;
-}
-
-#pen.flex-item {
-    background: none;
-    padding-bottom: 10px;
-    padding-top: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
-    width: 100px;
-    height: 100px;
     margin-top: 0px;
     margin-bottom: 0px;
     line-height: 24px;
