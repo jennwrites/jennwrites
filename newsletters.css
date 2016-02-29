@@ -163,6 +163,7 @@ span {
 }
 
 #intro.flex-item {
+    align-content: center;
     background: none;
     padding-left: 20px;
     padding-right: 20px;
