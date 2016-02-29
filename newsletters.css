@@ -149,6 +149,8 @@ span {
 }
 
 #intro.flex-container {
+    margin-left: 20px;
+    margin-right: 20px;
     list-style: none;
   
     display: -webkit-box;
