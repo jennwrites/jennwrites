@@ -121,6 +121,14 @@ hr {
     background-color: #CCCCCC;
 }
 
+.about-me img {
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
 .flex-container {
   	padding: 0;
   	margin: 0;
@@ -236,6 +244,7 @@ hr {
 	font-family: 'Raleway', sans-serif;
 	font-size: 20px;
 	font-color: #CCCCCC;
+  text-align: left;
 }
 
 #p4 {
