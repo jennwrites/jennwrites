@@ -71,3 +71,7 @@ h1 {
 
 }
 
+#main-content img {
+	position: fixed;
+	bottom: 0;
+}
