@@ -60,7 +60,7 @@ h1 {
 	font-family: 'Abril Fatface', cursive; 
 	font-weight: 400;
 	font-size: 40px;
-	text-align: center
+	text-align: right;
 }
 
 .main-content {
@@ -68,10 +68,11 @@ h1 {
     margin-bottom: 0px;
     font-family: 'Abril Fatface', cursive;
     color: #FFFFFF;
+    align: right;
 
 }
 
-#main-content img {
+.jenn {
 	position: fixed;
 	bottom: 0;
 }
