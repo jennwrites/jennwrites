@@ -115,6 +115,7 @@ h6 {
 }
 
 hr { 
+    margin: 40px 20px;
     height: 4px;
     border: none;
     color: #CCCCCC;
