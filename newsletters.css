@@ -27,19 +27,23 @@ html {
 }
 
 a {
-  	color: #969696;  
+  	color: #969696;
+    text-decoration: none;  
 }
 
 a:active {
-  	color: #969696; 
+  	color: #969696;
+    text-decoration: none; 
 }
 
 a:visited {
- 	color: #969696; 
+ 	color: #969696;
+  text-decoration: none; 
  }	
 
 a:hover {
-  	color: #FF6600; 
+  	color: #FF6600;
+    text-decoration: none; 
 }
 
 p {
@@ -75,7 +79,6 @@ h3 {
 	font-weight: 400;
 	font-size: 35px;
 	text-align: right;
-  text-decoration: none;
 	color: #FF6600;
 }
 
@@ -127,7 +130,8 @@ hr {
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: table;
+    margin: 0 auto;
     font-size: 35px;
 
 }
@@ -271,7 +275,6 @@ hr {
 	font-family: 'Open Sans', sans-serif;
 	font-color: #969696;
 	text-align: right;
-  text-decoration: none;
 }
 
 #footer {
