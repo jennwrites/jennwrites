@@ -27,23 +27,19 @@ html {
 }
 
 a {
-  	color: #CCCCCC; 
-  	text-decoration: none; 
+  	color: #969696;  
 }
 
 a:active {
-  	color: #CCCCCC; 
-  	text-decoration: none; 
+  	color: #969696; 
 }
 
 a:visited {
- 	color: #CCCCCC; 
- 	text-decoration: none; 
-}
+ 	color: #969696; 
+ }	
 
 a:hover {
   	color: #FF6600; 
-  	text-decoration: none; 
 }
 
 p {
@@ -68,7 +64,7 @@ h2 {
 	font-weight: 400;
 	font-size: 35px;
 	text-align: center;
-	color: #CCCCCC;
+	color: #969696;
 }
 
 h3 {
@@ -118,12 +114,12 @@ hr {
     margin: 40px 20px;
     height: 4px;
     border: none;
-    color: #CCCCCC;
-    background-color: #CCCCCC;
+    color: #969696;
+    background-color: #969696;
 }
 
 .button {
-    background-color: #FF6600; /* Super fun orange */
+    background-color: #FF6600; /* Super fun, blaze orange */
     border-radius: 8px;
     color: white;
     padding: 15px 32px;
@@ -131,10 +127,11 @@ hr {
     text-decoration: none;
     display: inline-block;
     font-size: 35px;
+
 }
 
 .button:hover {
-    background-color: #FF6600; /* Super fun orange */
+    background-color: #FF6600; /* Super fun, blaze orange */
     color: white;
 }
 
@@ -264,14 +261,14 @@ hr {
 	margin: 20px;
 	font-family: 'Raleway', sans-serif;
 	font-size: 20px;
-	font-color: #CCCCCC;
+	font-color: #969696;
   text-align: left;
 }
 
 #p4 {
 	margin: 0px;
 	font-family: 'Open Sans', sans-serif;
-	font-color: #CCCCCC;
+	font-color: #969696;
 	text-align: right;
 }
 
