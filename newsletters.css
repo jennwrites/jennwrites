@@ -122,6 +122,22 @@ hr {
     background-color: #CCCCCC;
 }
 
+.button {
+    background-color: #FF6600; /* Super fun orange */
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 35px;
+}
+
+.button:hover {
+    background-color: #FF6600; /* Super fun orange */
+    color: white;
+}
+
 .about-me img {
     width: 600px;
     display: block;
