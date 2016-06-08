@@ -120,3 +120,12 @@ ul {
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
+
+.lr p {
+  font-family: 'Abril Fatface', cursive;
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  color: white;
+  margin: 0;
+}
