@@ -20,6 +20,14 @@
   color: #FFFFFF;
 }
 
+#text {
+  z-index: 100;
+  position: absolute;
+  color: white;
+  font-size: 60px;
+  font-weight: bold;
+}
+
 @font-face {
     font-family: 'Abril Fatface';    
 }
@@ -119,13 +127,4 @@ ul {
 .hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
-}
-
-.lr p {
-  font-family: 'Abril Fatface', cursive;
-  position: absolute;
-  bottom: 20px;
-  left: 20px;
-  color: white;
-  margin: 0;
 }
