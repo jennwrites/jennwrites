@@ -103,6 +103,7 @@ ul {
     display: -webkit-flex;
     display: flex;
     -webkit-flex-wrap: wrap;
+    flex-direction: row;
     flex-wrap: wrap;
     -webkit-align-content: center;
     align-items: center;
