@@ -97,7 +97,6 @@ ul {
 }
 
 .flex-item {
-    width: 200px;
-    height: 150px;
-    margin: 10px;
+    width: 400px;
+    margin: 20px;
 }
