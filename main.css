@@ -98,8 +98,8 @@ ul {
 
 .flex-item {
     width: 400px;
+    height: 200px;
     margin: 20px;
-    align-items: center;
 }
 
 .hvr-grow {
