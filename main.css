@@ -93,12 +93,12 @@ ul {
     -webkit-flex-wrap: wrap;
     flex-wrap: wrap;
     -webkit-align-content: center;
-    align-content: center;
+    align-items: center;
+    align-content: space-around;
 }
 
 .flex-item {
     width: 400px;
-    height: 200px;
     margin: 20px;
 }
 
