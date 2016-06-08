@@ -84,6 +84,10 @@ h1 {
 }
 
 .flex-container {
+    padding: 0;
+    margin: 20;
+    list-style: none;
+  
     display: -webkit-flex;
     display: flex;
     -webkit-flex-wrap: wrap;
