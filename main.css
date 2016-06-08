@@ -99,6 +99,7 @@ ul {
 .flex-item {
     width: 400px;
     margin: 20px;
+    align-items: center;
 }
 
 .hvr-grow {
