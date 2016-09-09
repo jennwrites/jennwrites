@@ -13,7 +13,7 @@
 #landing {
   margin: 0px;
   padding: 0px;	
-  background-color: #000000;
+  background-color: #FFFFFF;
   background-attachment: fixed;
   background-repeat: no-repeat;
   font-family: 'Abril Fatface', cursive;
@@ -27,7 +27,7 @@
 #text {
   z-index: 100;
   position: absolute;
-  color: white;
+  color: black;
   font-size: 60px;
   font-weight: bold;
 }
@@ -79,7 +79,7 @@ h1 {
     margin-top: 0px;
     margin-bottom: 0px;
     font-family: 'Abril Fatface', cursive;
-    color: #FFFFFF;
+    color: #000000;
     align: right;
 }
 
