@@ -27,7 +27,7 @@
 #text {
   z-index: 100;
   position: absolute;
-  color: black;
+  color: #000000;
   font-size: 60px;
   font-weight: bold;
 }
