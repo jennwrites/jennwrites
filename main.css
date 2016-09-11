@@ -41,19 +41,22 @@ html {
 }
 
 a:link {
+  color: #000000;
   text-decoration: none; 
 }
 
 a:active {
+  color: #009a9a;
   text-decoration: none; 
 }
 
 a:visited {
+ color: #009a9a;
  text-decoration: none; 
 }
 
 a:hover {
-  color: #C12283; 
+  color: #009a9a; 
   text-decoration: none; 
 }
 
@@ -86,6 +89,6 @@ li {
 li a {
     display: block;
     text-align: center;
-    padding: 14px 16px;
+    padding: 20px 20px;
     text-decoration: none;
 }
