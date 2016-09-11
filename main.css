@@ -16,7 +16,7 @@
   background-color: #FFFFFF;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  font-family: 'Abril Fatface', cursive;
+  font-family: 'Source Sans Pro', sans-serif;
   color: #000000;
 }
 
@@ -33,11 +33,11 @@
 }
 
 @font-face {
-    font-family: 'Abril Fatface';    
+    font-family: 'Source Sans Pro', sans-serif;    
 }
 
 html {
-  font-family: 'Abril Fatface', cursive;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 a:link {
@@ -62,62 +62,16 @@ a:hover {
 
 p {    
   margin: 25px;
-  font-family: 'Abril Fatface', cursive;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 20px%;
 }
 
 h1 {
     margin-top: 0px;
     margin-bottom: 0px;
-    font-family: 'Abril Fatface', cursive; 
+    font-family: 'Source Sans Pro', sans-serif; 
     font-weight: 400;
     font-size: 40px;
     text-align: left;
 }
 
-.main-content {
-    margin-top: 0px;
-    margin-bottom: 0px;
-    font-family: 'Abril Fatface', cursive;
-    color: #000000;
-    align: right;
-}
-
-.flex-container {
-    padding: 0;
-    margin: 20;
-    list-style: none;
-  
-    display: -webkit-flex;
-    display: flex;
-    -webkit-flex-wrap: wrap;
-    flex-direction: row;
-    flex-wrap: wrap;
-    -webkit-align-content: center;
-    align-items: center;
-    justify-content: center;
-}
-
-.flex-item {
-    width: 400px;
-    margin: 20px;
-}
-
-.hvr-grow {
-  display: inline-block;
-  vertical-align: middle;
-  -webkit-transform: translateZ(0);
-  transform: translateZ(0);
-  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
-  -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-transition-duration: 0.3s;
-  transition-duration: 0.3s;
-  -webkit-transition-property: transform;
-  transition-property: transform;
-}
-.hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
-  -webkit-transform: scale(1.1);
-  transform: scale(1.1);
-}
