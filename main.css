@@ -94,8 +94,8 @@ li a {
 }
 
 div.fixed {
-    position: fixed;
-    bottom: 0;
-    right: 0;
+    position: absolute;
+    left: 0px;
+    top: 0px;
     width: 300px;
 }
