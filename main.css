@@ -92,3 +92,10 @@ li a {
     padding: 50px;
     text-decoration: none;
 }
+
+div.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+}
