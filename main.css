@@ -95,6 +95,7 @@ li a {
 
 div.fixed {
     position: absolute;
+    padding: 50px;
     left: 0px;
     top: 0px;
     width: 300px;
