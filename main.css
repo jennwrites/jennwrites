@@ -104,6 +104,7 @@ div.fixed {
 .flex-container {
     display: -webkit-flex;
     display: flex;
+    padding; 100px;
     width: 800px;
     height: 600px;
 }
