@@ -112,18 +112,10 @@ div.fixed {
     width: 300px;
     height: 100px;
     margin: 10px;
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
 }
 
 .flex-item right {
     width: 300px;
     height: 400px;
     margin: 10px;
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
 }
