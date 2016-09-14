@@ -104,18 +104,18 @@ div.fixed {
 .flex-container {
     display: -webkit-flex;
     display: flex;
-    width: 800px;
-    height: 600px;
+    width: 1600px;
+    height: 800px;
 }
 
 .flex-item left {
-    width: 300px;
+    width: 800px;
     height: 100px;
     margin: 10px;
 }
 
 .flex-item right {
-    width: 300px;
+    width: 800px;
     height: 400px;
     margin: 10px;
 }
