@@ -104,7 +104,6 @@ div.fixed {
 .flex-container {
     display: -webkit-flex;
     display: flex;
-    padding; 100px;
     width: 800px;
     height: 600px;
 }
@@ -113,10 +112,18 @@ div.fixed {
     width: 300px;
     height: 100px;
     margin: 10px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
 }
 
 .flex-item right {
     width: 300px;
     height: 400px;
     margin: 10px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
 }
