@@ -22,15 +22,30 @@
   position: absolute;
 }
 
-@font-face{ 
-	font-family: 'MyWebFont';
-	src: url('WebFont.eot');
-	src: url('WebFont.eot?iefix') format('eot'),
-	     url('WebFont.woff') format('woff'),
-	     url('WebFont.ttf') format('truetype'),
-	     url('WebFont.svg#webfont') format('svg');
+@font-face {
+    font-family:'Cooper Std Black';
+    src: url('CooperBlackStd.eot');
+	src: url('CooperBlackStd.eot?#iefix') format('embedded-opentype'),
+		url('CooperBlackStd.woff2') format('woff2'),
+		url('CooperBlackStd.woff') format('woff'),
+		url('CooperBlackStd.svg#CooperBlackStd') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
 }
 
+@font-face{ 
+	font-family: 'CooperHewitt-Medium-webfont';
+	src: url('CooperHewitt-Medium-webfont.eot');
+	src: url('CooperHewitt-Medium-webfont.eot?iefix') format('eot'),
+	     url('CooperHewitt-Medium-webfont.woff') format('woff'),
+	     url('CooperHewitt-Medium-webfont.ttf') format('truetype'),
+	     url('CooperHewitt-Medium-webfont.svg#webfont') format('svg');
+}
+
+@font-face{ 
+	font-family: 'PT Sans', sans-serif;
+}
 
 a:link {
   color: #CC00FF;
