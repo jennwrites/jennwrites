@@ -68,7 +68,16 @@ p {
 h1 {
     margin-top: 0px;
     margin-bottom: 0px;
-    font-family: 'Source Sans Pro', sans-serif; 
+    font-family: 'Cooper Std Black'; 
+    font-weight: 400;
+    font-size: 40px;
+    text-align: left;
+}
+
+h2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'CooperHewitt-Medium-webfont'; 
     font-weight: 400;
     font-size: 40px;
     text-align: left;
