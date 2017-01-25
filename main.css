@@ -112,6 +112,11 @@ div.fixed {
     width: 300px;
 }
 
+div.intro {
+    margin: 50px;
+    padding: 50px;	
+}
+
 .flex-container {
     display: -webkit-flex;
     display: flex;
