@@ -59,12 +59,6 @@ body {
     background-color: #000000;
 }
 
-p {    
-  margin: 25px;
-  font-family: 'PT Sans', sans-serif;
-  font-size: 20px%;
-}
-
 h1 {
     margin-top: 0px;
     margin-bottom: 0px;
@@ -72,6 +66,7 @@ h1 {
     font-weight: 400;
     font-size: 40px;
     text-align: left;
+    color: #FFFFFF;
 }
 
 h2 {
@@ -81,6 +76,14 @@ h2 {
     font-weight: 400;
     font-size: 40px;
     text-align: left;
+    color: #FFFFFF;
+}
+
+p {    
+  margin: 25px;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px%;
+  color: #FFFFFF;
 }
 
 ul {
