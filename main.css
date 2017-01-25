@@ -22,13 +22,16 @@
     font-stretch: normal;
 }
 
-@font-face{ 
-	font-family: 'CooperHewitt-Medium-webfont';
-	src: url('CooperHewitt-Medium-webfont.eot');
-	src: url('CooperHewitt-Medium-webfont.eot?iefix') format('eot'),
-	     url('CooperHewitt-Medium-webfont.woff') format('woff'),
-	     url('CooperHewitt-Medium-webfont.ttf') format('truetype'),
-	     url('CooperHewitt-Medium-webfont.svg#webfont') format('svg');
+@font-face {
+    font-family:'Cooper Hewitt';
+    src: url('t Medium.eot');
+	src: url('t Medium.eot?#iefix') format('embedded-opentype'),
+		url('t Medium.woff2') format('woff2'),
+		url('t Medium.woff') format('woff'),
+		url('t Medium.svg#t Medium') format('svg');
+    font-weight: 707;
+    font-style: normal;
+    font-stretch: normal;
 }
 
 @font-face{ 
