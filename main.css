@@ -125,11 +125,16 @@ div.intro {
 .flex-container {
     display: -webkit-flex;
     display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-align-content: center;
+    align-items: center;
+    justify-content: center;
 }
 
-.flex-item  {
-    width:400px; 
-    margin:20px
+.flex-item {
+    width: 400px;
+    margin: 20px;
 }
 
 .hvr-grow {
